@@ -1,2 +1,0 @@
-1.	Cappuccino	25	30	40
-2.	Espresso	30	30	45
